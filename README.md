@@ -1,5 +1,4 @@
 # KPI_Dashboard_Project
-# KPI Dashboard
 This repository contains the KPI dashboard project for Clear Waters Communication (CWC).  
 Key features:  
 - Tracks application approval, declination, and withdrawal rates.  
